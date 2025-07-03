@@ -1,0 +1,8 @@
+pandas==2.2.2
+numpy==1.26.4
+streamlit==1.35.0
+prefect==2.14.20
+pydantic==2.7.1
+neo4j==5.19.0
+rdflib==7.0.0
+plotly==5.21.0
